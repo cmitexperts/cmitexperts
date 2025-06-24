@@ -38,7 +38,7 @@ We are a passionate team of IT professionals with 12+ years of industry experien
 ---
 
 👨‍💻 **Our Core Team**
-
+|  |  |  |
 |:--:|:--:|:--:|
 | **Mahesh Gaur**<br>🚀 Project Manager * Full Stack Developer * AI & Chatbot Expert | **Chetan Singh**<br>📱 Mobile App & Full Stack Developer * Business Analyst * AI Automations | **Mohan Singh**<br>Full Stack Developer * ERP & CRM Expert * Integration Specialist |
 

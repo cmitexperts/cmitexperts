@@ -41,6 +41,10 @@ We are a passionate team of IT professionals with 12+ years of industry experien
 - 📷 [Instagram](https://www.instagram.com/cmitexperts/)
 - 📧 info@cmitexperts.com
 
+📫 **Instate Chat Here**
+
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/919079284488)
+
 ---
 
 📈 **GitHub Stats**

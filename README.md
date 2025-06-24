@@ -34,6 +34,20 @@ We are a passionate team of IT professionals with 12+ years of industry experien
 
 ---
 
+
+---
+
+👨‍💻 **Our Core Team**
+
+| ![](https://avatars.githubusercontent.com/u/1?v=4&s=100) | ![](https://avatars.githubusercontent.com/u/2?v=4&s=100) | ![](https://avatars.githubusercontent.com/u/3?v=4&s=100) |
+|:--:|:--:|:--:|
+| **Mahesh Gaur**<br>Project Manager | **Chetan Singh**<br>Mobile App & Full Stack | **Mohan Singh**<br>ERP / API Integration Lead |
+
+
+
+
+
+
 📫 **Let’s Connect**
 
 - 🌐 [Website](https://www.cmitexperts.com)

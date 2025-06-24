@@ -41,7 +41,7 @@ We are a passionate team of IT professionals with 12+ years of industry experien
 
 | ![](https://avatars.githubusercontent.com/u/1?v=4&s=100) | ![](https://avatars.githubusercontent.com/u/2?v=4&s=100) | ![](https://avatars.githubusercontent.com/u/3?v=4&s=100) |
 |:--:|:--:|:--:|
-| **Mahesh Gaur**<br>Project Manager | **Chetan Singh**<br>Mobile App & Full Stack | **Mohan Singh**<br>ERP / API Integration Lead |
+| **Mahesh Gaur**<br>🚀 Project Manager * Full Stack Developer * AI & Chatbot Expert | **Chetan Singh**<br>📱 Mobile App & Full Stack Developer * Business Analyst * AI Automations | **Mohan Singh**<br>Full Stack Developer * ERP & CRM Expert * Integration Specialist |
 
 
 

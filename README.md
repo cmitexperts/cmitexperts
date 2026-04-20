@@ -88,15 +88,6 @@ Have a project in mind? We help businesses design, build, and scale modern digit
 
 ---
 
-## 📈 Development Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CMITEXPERTS&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CMITEXPERTS&theme=radical" />
-</p>
-
----
-
 ## 🧭 Why Choose Us?
 
 ✔ 12+ Years Industry Experience
